@@ -1,0 +1,22 @@
+{
+  "name": "google-cloud-functions-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanziw/google-cloud-functions-start.git"
+  },
+  "keywords": [
+    "google-cloud-functions-start"
+  ],
+  "author": "kanziw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanziw/google-cloud-functions-start/issues"
+  },
+  "homepage": "https://github.com/kanziw/google-cloud-functions-start#readme"
+}
